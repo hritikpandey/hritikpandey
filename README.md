@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hritik Pandey 
 - 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning advance techniques in deep learning
+- 🌱 I’m currently working on advance techniques in deep learning
 - 💞️ I’m looking to collaborate on projects related to machine learning and build solution for the same
 - 📫 You can reach me at hritikpandey.hk@gmail.com or +91-7905646598
 
